@@ -1,0 +1,31 @@
+{
+    "kind": "calendar#event",
+    "etag": "\"3017656837708000\"",
+    "id": "4v93atk1muj6ruak9h5d2ptr44",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=NHY5M2F0azFtdWo2cnVhazloNWQycHRyNDQgcHJpbmNlLnJhakBnc2xhYi5jb20",
+    "created": "2017-10-24T07:00:18.000Z",
+    "updated": "2017-10-24T07:00:18.854Z",
+    "creator": {
+        "email": "prince.raj@gslab.com",
+        "self": true
+    },
+    "organizer": {
+        "email": "prince.raj@gslab.com",
+        "self": true
+    },
+    "start": {
+        "dateTime": "2017-12-25T05:30:00+05:30",
+        "timeZone": "America/Los_Angeles"
+    },
+    "end": {
+        "dateTime": "2017-12-29T05:30:00+05:30",
+        "timeZone": "America/Los_Angeles"
+    },
+    "iCalUID": "4v93atk1muj6ruak9h5d2ptr44@google.com",
+    "sequence": 0,
+    "hangoutLink": "https://plus.google.com/hangouts/_/gslab.com/prince-raj?hceid=cHJpbmNlLnJhakBnc2xhYi5jb20.4v93atk1muj6ruak9h5d2ptr44",
+    "reminders": {
+        "useDefault": true
+    }
+}

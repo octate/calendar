@@ -1,0 +1,5 @@
+GET https://www.googleapis.com/calendar/v3/users/me/calendarList/primary
+
+Header:
+content-type:application/x-www-form-urlencoded
+Authorization:Bearer ya29.GlvuBLqdaa5syVY5ifZG6Jg6Mculj6CwFFbquc6uDcV9s0-SclWsA-Eng5Ch4jcRJbGR6iroE-aoCOdGP4icn0iD0eQEhhsz58p2vqNQv0ewqaM5jSP62yGp7pPz

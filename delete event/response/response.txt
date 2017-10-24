@@ -1,0 +1,1 @@
+This API returns empty response if API is successfully executed

@@ -1,0 +1,39 @@
+{
+    "kind": "calendar#calendarListEntry",
+    "etag": "\"1499128981533000\"",
+    "id": "prince.raj@gslab.com",
+    "summary": "prince.raj@gslab.com",
+    "timeZone": "Asia/Calcutta",
+    "colorId": "14",
+    "backgroundColor": "#9fe1e7",
+    "foregroundColor": "#000000",
+    "selected": true,
+    "accessRole": "owner",
+    "defaultReminders": [
+        {
+            "method": "popup",
+            "minutes": 10
+        }
+    ],
+    "notificationSettings": {
+        "notifications": [
+            {
+                "type": "eventCreation",
+                "method": "email"
+            },
+            {
+                "type": "eventChange",
+                "method": "email"
+            },
+            {
+                "type": "eventCancellation",
+                "method": "email"
+            },
+            {
+                "type": "eventResponse",
+                "method": "email"
+            }
+        ]
+    },
+    "primary": true
+}

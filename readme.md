@@ -1,0 +1,1 @@
+All the APIs must be authorized by oAUTH2 to execute.
